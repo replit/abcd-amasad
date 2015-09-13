@@ -1,0 +1,50 @@
+/* 2015-09-09 C. Teeters
+*
+*/
+
+@font-face {
+  font-family: "Indie Flower";
+  src: url(../fonts/indieflower-webfont.eot);
+  src: url(../fonts/indieflower-webfont.eot?#iefix) format("embedded-opentype"), url(../fonts/indieflower-webfont.woff2) format("woff2"), url(../fonts/indieflower-webfont.woff) format("woff"), url(../fonts/indieflower-webfont.ttf) format("truetype"), url(../fonts/indieflower-webfont.svg#indie_flowerregular) format("svg");
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  color: #efeeea;
+  background-color: #4e4e4e;
+  text-align: center;
+  width: 80%;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Indie Flower", sans-serif;
+  color: #efeeea;
+  letter-spacing: 2px;
+  line-height: 1.5;
+}
+/*
+* Force Landscape
+*/
+#force-landscape { display:block; }
+@media only screen and (orientation:portrait){
+  #container {
+    height: 100vw;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg);
+  }
+}
+@media only screen and (orientation:landscape){
+  #container {
+     -webkit-transform: rotate(0deg);
+     -moz-transform: rotate(0deg);
+     -o-transform: rotate(0deg);
+     -ms-transform: rotate(0deg);
+     transform: rotate(0deg);
+  }
+}
