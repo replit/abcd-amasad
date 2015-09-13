@@ -199,10 +199,17 @@ var Engine = (function (global) {
         //
         if ((deltaX + deltaY) === 1) {
             if (deltaX === 1) {
-                tapX > playerPos.xPos ? move = 'right' : move = 'left';
+                if (tapX > playerPos.xPos) {
+                    move = 'right';
+                } else {
+                    move = 'left';
+                }
             } else {
-                tapY > playerPos.yPos ? move = 'down' : move = 'up';
-
+                if (tapY < playerPos.yPos) {
+                    move = 'up';
+                } else {
+                    move = 'down';
+                }
             }
             player.handleInput(move);
         }
