@@ -1,4 +1,3 @@
-Udacity Front-End Web Developer Nanodegree
 ===============================
 P3: Classic Arcade Game Clone With Animation and Sound
 ===============================
@@ -46,7 +45,7 @@ Limitations
 
 Demo
 ---
-- You can see the game at [BrainyDesigns.net](http://brainydesigns.net/arcade-game).
+- You can see the demo at [I Got A Camera - Arcade Game ](http://igotacamera.com/arcade/).
 
 ## Installation
 - Clone the repository from [GitHub](http://GitHub.com/cynthiateeters/arcade-game) and unzip it into a directory accessible to your browser.
