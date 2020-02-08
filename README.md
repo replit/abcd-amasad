@@ -1,6 +1,6 @@
-===============================
-P3: Classic Arcade Game Clone With Animation and Sound
-===============================
+
+# Classic Arcade Game Clone With Animation and Sound
+
 This is an arcade-style game utilizing Object Oriented JavaScript. The goal of the game is to get the hero across the field inhabited by crazy Evil Chomper Plants that are running amok. If our hero is bitten by an Evil Chomper Plant, the round is reset and you must try again. If our hero reaches the water, the score increases, and you get to go again.
 
 -Go Api
