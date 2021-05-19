@@ -19,9 +19,9 @@ To play:
 - If our hero is bit, she/he falls back to the starting position.
 - Our hero will get right back up with a nudge.
 - If our hero wins, we'll spend a few seconds dancing, and it's right back to the starting position.
-- Be patient of the well-deserved celebrating; you won't be able to move until it is over.
+- Be patient with the well-deserved celebration; you won't be able to move until it is over.
 - As the game proceeds, the Evil Chomper Plants may get angrier and speed up.
-- And, most important: super heros never die, so, go for really big scores!!
+- And, most important: super heroes never die, so, go for really big scores!!
 - You can use a mouse or touch instead of the keys, but our hero only will move to an adjacent position. To play make sure you point only left, right, up, or down. No diagonals or big jumps, please.
 
 Browser Compatibility
@@ -41,7 +41,7 @@ In an effort to add device compatibility, this game was designed to be 1) respon
 
 Limitations
 ---
-- An attempt was made to create a mobile device app with [PhoneGap Build](https://build.phonegap.com/apps) but the resulting app is not touch responsive enough to be enjoybale.
+- An attempt was made to create a mobile device app with [PhoneGap Build](https://build.phonegap.com/apps) but the resulting app is not touch responsive enough to be enjoyable.
 - It is likely that the configuration for the Hammer.js plugin (mouse and touch capabilities) needs to be tuned for better touch performance on small devices.
 
 Demo
@@ -56,13 +56,13 @@ Demo
 - Add different styled enemies.
 - Add a splash screen.
 - Add support messages to the user when playing.
-- Give user the ability to choose a hero.
+- Give the user the ability to choose a hero.
 - Add a truck that drives across on the road spilling fish.
-- Add fish dumped by the truck that then need to be saved and put in the water.
+- Add fish dumped by the truck that then needs to be saved and put in the water.
 
 ## License and Resources
 "Arcade Game" by Cynthia Teeters © 2015 can be used under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
 - Images used to make the characters Evil Chompers were originally made by [Bevouliin - Imaginary Perception](http://bevouliin.com), and obtained from [OpenGameArt](http://opengameart.org) under a [CC0 public domain license](http://creativecommons.org/publicdomain/zero/1.0/).
-- Images to make litlle monkey were originally made by [fikri](http://graphicriver.net/user/fikri) and purchased under [Envato Standard License](http://graphicriver.net/licenses/standard?license=regular).
+- Images to make little monkey were originally made by [fikri](http://graphicriver.net/user/fikri) and purchased under [Envato Standard License](http://graphicriver.net/licenses/standard?license=regular).
 - pacmanwakka.wav (created by remaxim) was obtained from [OpenGameArt](http://opengameart.org/content/pacman-clone-wakka-sound) under a [CC-BY-SA 3.0 license](http://creativecommons.org/licenses/by-sa/3.0/).
 - round_end.wac (created by sauer2) was obtained from [OpenGameArt](http://opengameart.org/content/oldschool-win-and-die-jump-and-run-soundscreated) under [CC0 license](http://creativecommons.org/publicdomain/zero/1.0/).
